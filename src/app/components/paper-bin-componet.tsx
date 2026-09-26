@@ -23,7 +23,7 @@ export const PaperBinComponent = ({
 			<ViewHeaderComponent
 				titleId="paper-bin-title"
 				eyebrow="Se borra al vaciar"
-				title="Papelera"
+				title="Papelera :)"
 				action={
 					deletedTasks.length > 0 ? (
 						<button
